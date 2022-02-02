@@ -1,0 +1,27 @@
+.top-header{
+    display: flex;
+    flex-direction: row;
+    
+    justify-content:space-around;
+    /* align-items:center; */
+    gap: 50%;
+    flex-wrap: wrap;
+    background-color:#ebebeb;
+}
+.header{
+    background-color:#fef5ef;
+}
+.topWord{
+    display: flex;
+    justify-content:start;
+     align-items:end;
+}
+.link{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.836);
+    
+    
+}
+.icon{
+    margin-right:.2em;
+}
