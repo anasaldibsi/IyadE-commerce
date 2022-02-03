@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.Shop{
+    display: grid;
+    margin: 0%;
+    padding: 0%;
+    grid-template-columns: repeat(4,auto);
+    justify-content: space-evenly;
+    align-items: flex-start;
+    gap: 1%;
+}
